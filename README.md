@@ -1,4 +1,4 @@
-<h1 align="center">KAKAROTO-BOT-MD 💨</h1>
+<h1 align="center">KAKAROTOO-BOT-MD 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
@@ -7,8 +7,8 @@
 
 <div align="center">
  
-[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
-[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
+[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18098781279)
+[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18292588251)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kakaroto-bot)
 </div>
 
@@ -28,12 +28,12 @@
 ### **`💭 Contáctanos`**
 
 <a
-href="https://wa.me/573142051545?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
+href="https://wa.me/18098781279?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/573142051545
+* https://wa.me/18098781279
 
 ---
 
@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd Kakarotot-Bot-MD
     ```
 
 2. Inicia el bot nuevamente:
@@ -102,7 +102,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd Kakarotot-Bot-MD
     ```
 
 2. Elimina la carpeta MiniSession:
@@ -174,7 +174,7 @@ href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
 | WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
-| WhatsApp | Team Kakaroto | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
+| WhatsApp | Team Kakarotoo | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
  
 
