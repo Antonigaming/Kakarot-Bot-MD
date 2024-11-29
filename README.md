@@ -1,9 +1,9 @@
-<h1 align="center">KAKAROTOO-BOT-MD 💨</h1>
+<h1 align="center">KAKAROTOT-BOT-MD 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakaroto+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+legendary;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
-![Kakaroto](https://i.ibb.co/4NWqF0m/file.jpg)
+![Kakarotot](https://i.ibb.co/4NWqF0m/file.jpg)
 
 <div align="center">
  
@@ -67,7 +67,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Diomar-s/Kakaroto-Bot-MD && cd Kakaroto-Bot-MD
+git clone https://github.com/Antonigaming/Kakarotot-Bot-MD && cd Kakarotot-Bot-MD
 ```
 
 ```bash
