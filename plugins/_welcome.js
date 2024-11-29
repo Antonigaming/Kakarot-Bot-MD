@@ -11,17 +11,19 @@ export async function before(m, {conn, participants, groupMetadata}) {
   let chat = global.db.data.chats[m.chat]
 
   if (chat.welcome && m.messageStubType == 27) {
-    let wel = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 🐲 \n ┃『 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/A 👋 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃ ${groupMetadata.subject}\n   ┃🌟  CANAL ANIME \n  ┃🐉 https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t\n  ┗━━─────────────━━┛`
+    let wel = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 🐲 \n ┃『 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/A 👋 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃ ${groupMetadata.subject}\n   ┃YA ERES UN NUEVO INTEGRANTE ❤️‍🔥  \n  ┃🐉 \n  ┗━━─────────────━━┛`
 await conn.sendMini(m.chat, packname, dev, wel, img, img, channel, fkontak)
   }
 
   if (chat.welcome && m.messageStubType == 28) {
-   let bye = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 ☁️ \n ┃『 𝐀𝐃𝐈Ó𝐒 🖐️ 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃🐲  𝐒𝐄 𝐅𝐔𝐄 𝐄𝐒𝐄\n   ┃🐉 𝐍𝐮𝐧𝐜𝐚 𝐭𝐞 𝐪𝐮𝐢𝐬𝐢𝐦𝐨𝐬 𝐚𝐪𝐮í 𝐒𝐚𝐢𝐲𝐚𝐧 𝐝𝐞 𝐂𝐮𝐚𝐫𝐭𝐚\n   ┃🌟  CANAL ANIME \n   ┃🐉 https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t\n   ┗━━─────────────━━┛`
+   let bye = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 ☁️ \n ┃『 𝐀𝐃𝐈Ó𝐒 👹 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃🐲  𝐒𝐄 𝐅𝐔𝐄 𝐄𝐒𝐄 PUTO\n   ┃🐉 𝐍𝐮𝐧𝐜𝐚 𝐭𝐞 𝐪𝐮𝐢𝐬𝐢𝐦𝐨𝐬 𝐚𝐪𝐮í 𝓡𝓪𝓽𝓪 𝓭𝓮 𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓸𝓻𝓲𝓸\n   ┃🐭 𝙉𝙐𝙉𝘾𝘼 𝘼𝙔𝙐𝘿𝙊 𝙀𝙉 \n 
+   ┃ 𝙉𝘼𝘿𝘼 𝙎𝙊𝙇𝙊 𝙀𝙍𝘼 𝙐𝙉 𝙎𝙄𝙉  \n   ┃ 𝙑𝙀𝙍𝙂Ü𝙀𝙉𝙕𝘼 𝙄𝙉𝙎𝙀𝙍𝙑𝙄𝘽𝙇𝙀
+   \n   ┃ \n   ┗━━─────────────━━┛`
 await conn.sendMini(m.chat, packname, dev, bye, img2, img2, channel, fkontak)
   }
 
   if (chat.welcome && m.messageStubType == 32) {
-    let kick = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 ☁️\n ┃『 𝐀𝐃𝐈Ó𝐒 🤚 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃🐲  𝐒𝐄 𝐅𝐔𝐄 𝐄𝐒𝐄\n   ┃🐉 𝐍𝐮𝐧𝐜𝐚 𝐭𝐞 𝐪𝐮𝐢𝐬𝐢𝐦𝐨𝐬 𝐚𝐪𝐮í 𝐒𝐚𝐢𝐲𝐚𝐧 𝐝𝐞 𝐂𝐮𝐚𝐫𝐭𝐚\n   ┃🌟  CANAL ANIME \n   ┃🐉 https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t\n   ┗━━─────────────━━┛`
+    let kick = ` ╒╾⟢ 𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 ☁️\n ┃『 𝐀𝐃𝐈Ó𝐒 😈 』\n └┬⟢ 『 @${m.messageStubParameters[0].split`@`[0]} 』\n   ┃🐲  𝐒𝐄 𝐅𝐔𝐄 𝐄𝐒𝐄 MANCO\n   ┃🐉 𝐍𝐮𝐧𝐜𝐚 𝐭𝐞 𝐪𝐮𝐢𝐬𝐢𝐦𝐨𝐬 𝐚𝐪𝐮í 𝐒𝐚𝐢𝐲𝐚𝐧 𝐝𝐞 𝐂𝐮𝐚𝐫𝐭𝐚\n   ┃🗑️  \n   ┃🐉 \n   ┗━━─────────────━━┛`
 await conn.sendMini(m.chat, packname, dev, kick, img2, img2, channel, fkontak)
 }}
 
