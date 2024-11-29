@@ -67,7 +67,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Antonigaming/Kakarotot-Bot-MD && cd Kakarotot-Bot-MD
+git clone https://github.com/Antonigaming/Kakarot-Bot-MD && cd Kakarot-Bot-MD
 ```
 
 ```bash
@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakarotot-Bot-MD
+    cd Kakarot-Bot-MD
     ```
 
 2. Inicia el bot nuevamente:
